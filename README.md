@@ -1,4 +1,4 @@
-> March, 2022: Hello! I'm Liam. If you want to contact me, [Gmail]<dnwjd6452@gmail.com>
+> <del> March, 2022: Hello! I'm Liam. If you want to contact me, [Gmail]<dnwjd6452@gmail.com> </del>
 
-# [Move to Liam's blog](https://liampoet.github.io/)
+# ⛔️ 더이상 사용하지 않는 블로그 입니다. 
 
